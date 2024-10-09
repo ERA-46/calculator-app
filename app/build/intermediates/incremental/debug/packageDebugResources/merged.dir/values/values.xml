@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spnDropdown">
+        <item>Student Name</item>
+        <item>Student ID</item>
+        <item>Reflection</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add">+</string>
+    <string name="app_name">Lab1_EHe79041</string>
+    <string name="backspace"> </string>
+    <string name="btnGotoCal">Go to Calculator</string>
+    <string name="clear">C</string>
+    <string name="divide">÷</string>
+    <string name="eight">8</string>
+    <string name="equals">=</string>
+    <string name="exponent">^</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="multiply">x</string>
+    <string name="nine">9</string>
+    <string name="one">1</string>
+    <string name="parenthesis">( )</string>
+    <string name="point">.</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="subtract">-</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="txtCalDisplay">0</string>
+    <string name="txtDisplay"> </string>
+    <string name="zero">0</string>
+    <style name="Base.Theme.Lab1_EHe79041" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Lab1_EHe79041" parent="Base.Theme.Lab1_EHe79041"/>
+</resources>
